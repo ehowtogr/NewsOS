@@ -1,0 +1,44 @@
+/* Sidebar Wrapper */
+.newsai-sidebar-wrapper { padding: 5px; }
+
+/* Alerts & Tasks */
+.newsai-alert-badge { background: #fff3e0; border-left: 4px solid #e67e22; padding: 12px; border-radius: 6px; margin-bottom: 15px; font-size: 13px; color: #d35400; box-shadow: 0 2px 4px rgba(0,0,0,0.05); }
+.newsai-alert-badge span:hover { transform: scale(1.2); filter: drop-shadow(0 0 2px #f1c40f); }
+
+/* Trends List */
+.newsai-section-title { font-weight: bold; font-size: 11px; color: #555; text-transform: uppercase; border-bottom: 1px solid #eee; padding-bottom: 5px; margin-bottom: 10px; }
+.newsai-trends-list { margin: 0; padding: 0; list-style: none; }
+.newsai-trends-list li { margin-bottom: 8px; font-size: 13px; }
+.newsai-trends-list li a { text-decoration: none; color: #0073aa; font-weight: 500; }
+.newsai-trends-list li a:hover { color: #d63638; }
+
+.newsai-sidebar-section { margin-bottom: 15px; }
+
+/* --- NEW BEAUTIFUL BUTTONS --- */
+.newsai-action-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    width: 100%;
+    padding: 10px;
+    font-size: 13px;
+    font-weight: 600;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: all 0.2s;
+    margin-bottom: 8px;
+    background: #fff;
+    box-sizing: border-box;
+}
+
+.newsai-action-btn .dashicons { font-size: 18px; line-height: 1; }
+
+.newsai-btn-outline-blue { border: 2px solid #2271b1; color: #2271b1; }
+.newsai-btn-outline-blue:hover { background: #f0f6fc; }
+
+.newsai-btn-solid-green { background: #16a085; border: 2px solid #16a085; color: #fff; }
+.newsai-btn-solid-green:hover { background: #1abc9c; border-color: #1abc9c; }
+
+.newsai-btn-solid-blue { background: #2271b1; border: 2px solid #2271b1; color: #fff; }
+.newsai-btn-solid-blue:hover { background: #135e96; border-color: #135e96; color: #fff;}

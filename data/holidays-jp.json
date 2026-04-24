@@ -1,0 +1,12 @@
+[
+    {"title": "Gantan (New Year's Day)", "day": 1, "month": 1, "lead": 14},
+    {"title": "Valentine's Day", "day": 14, "month": 2, "lead": 14},
+    {"title": "White Day", "day": 14, "month": 3, "lead": 14},
+    {"title": "Showa Day (Golden Week Start)", "day": 29, "month": 4, "lead": 21},
+    {"title": "Kenpo Kinenbi (Constitution Day)", "day": 3, "month": 5, "lead": 7},
+    {"title": "Kodomo no Hi (Children's Day)", "day": 5, "month": 5, "lead": 7},
+    {"title": "Tanabata (Star Festival)", "day": 7, "month": 7, "lead": 14},
+    {"title": "Kinro Kansha no Hi (Labor Thanksgiving)", "day": 23, "month": 11, "lead": 7},
+    {"title": "Christmas", "day": 25, "month": 12, "lead": 21},
+    {"title": "Omisoka (New Year's Eve)", "day": 31, "month": 12, "lead": 14}
+]

@@ -1,0 +1,10 @@
+[
+  {"title": "New Year's Day (Ano Novo)", "day": 1, "month": 1, "lead_days": 7, "notes": "New year coverage"},
+  {"title": "Freedom Day (Dia da Liberdade)", "day": 25, "month": 4, "lead_days": 10, "notes": "Carnation Revolution anniversary celebrations"},
+  {"title": "Labour Day (Dia do Trabalhador)", "day": 1, "month": 5, "lead_days": 5, "notes": "Worker demonstrations"},
+  {"title": "Portugal Day (Dia de Portugal)", "day": 10, "month": 6, "lead_days": 10, "notes": "National day, celebrating Portuguese history and Camões"},
+  {"title": "Assumption of Mary (Assunção de Nossa Senhora)", "day": 15, "month": 8, "lead_days": 4, "notes": "Religious holiday"},
+  {"title": "Republic Day (Implantação da República)", "day": 5, "month": 10, "lead_days": 7, "notes": "Historical retrospectives"},
+  {"title": "Restoration of Independence (Restauração da Independência)", "day": 1, "month": 12, "lead_days": 7, "notes": "Independence from Spain in 1640"},
+  {"title": "Christmas Day (Natal)", "day": 25, "month": 12, "lead_days": 14, "notes": "Main holiday coverage"}
+]

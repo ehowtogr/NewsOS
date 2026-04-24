@@ -1,0 +1,10 @@
+[
+    {"title": "Neujahrstag (New Year's Day)", "day": 1, "month": 1, "lead": 14},
+    {"title": "Berchtoldstag", "day": 2, "month": 1, "lead": 7},
+    {"title": "Valentinstag (Valentine's Day)", "day": 14, "month": 2, "lead": 14},
+    {"title": "Tag der Arbeit (Labor Day)", "day": 1, "month": 5, "lead": 7},
+    {"title": "Bundesfeier (Swiss National Day)", "day": 1, "month": 8, "lead": 21},
+    {"title": "Weihnachten (Christmas Day)", "day": 25, "month": 12, "lead": 30},
+    {"title": "Stephanstag (St. Stephen's Day)", "day": 26, "month": 12, "lead": 14},
+    {"title": "Silvester (New Year's Eve)", "day": 31, "month": 12, "lead": 14}
+]

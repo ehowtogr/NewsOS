@@ -1,0 +1,11 @@
+[
+    {"title": "Año Nuevo (New Year)", "day": 1, "month": 1, "lead": 14},
+    {"title": "Día de San Valentín", "day": 14, "month": 2, "lead": 14},
+    {"title": "Cinco de Mayo", "day": 5, "month": 5, "lead": 14},
+    {"title": "Día de la Independencia", "day": 16, "month": 9, "lead": 14},
+    {"title": "Día de los Muertos (Day of the Dead)", "day": 2, "month": 11, "lead": 21},
+    {"title": "Día de la Revolución", "day": 20, "month": 11, "lead": 7},
+    {"title": "Nochebuena (Christmas Eve)", "day": 24, "month": 12, "lead": 14},
+    {"title": "Navidad (Christmas)", "day": 25, "month": 12, "lead": 30},
+    {"title": "Nochevieja (New Year's Eve)", "day": 31, "month": 12, "lead": 14}
+]

@@ -1,0 +1,9 @@
+[
+  {"title": "New Year's Day (Jour de l'An)", "day": 1, "month": 1, "lead_days": 7, "notes": "New year coverage"},
+  {"title": "Labour Day (Fête du Travail)", "day": 1, "month": 5, "lead_days": 7, "notes": "Protests and union marches"},
+  {"title": "Victory in Europe Day (Fête de la Victoire)", "day": 8, "month": 5, "lead_days": 5, "notes": "WWII commemoration"},
+  {"title": "Bastille Day (Fête Nationale)", "day": 14, "month": 7, "lead_days": 10, "notes": "Military parade, fireworks, national day"},
+  {"title": "Assumption of Mary (Assomption)", "day": 15, "month": 8, "lead_days": 4, "notes": "Religious holiday, summer travel"},
+  {"title": "All Saints' Day (La Toussaint)", "day": 1, "month": 11, "lead_days": 4, "notes": "Religious observance"},
+  {"title": "Armistice Day (Jour de l'Armistice)", "day": 11, "month": 11, "lead_days": 7, "notes": "WWI commemoration"}
+]

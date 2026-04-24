@@ -1,0 +1,10 @@
+[
+    {"title": "New Year's Day", "day": 1, "month": 1, "lead": 14},
+    {"title": "Australia Day", "day": 26, "month": 1, "lead": 14},
+    {"title": "Valentine's Day", "day": 14, "month": 2, "lead": 14},
+    {"title": "Anzac Day", "day": 25, "month": 4, "lead": 14},
+    {"title": "Halloween", "day": 31, "month": 10, "lead": 14},
+    {"title": "Christmas Day", "day": 25, "month": 12, "lead": 30},
+    {"title": "Boxing Day", "day": 26, "month": 12, "lead": 14},
+    {"title": "New Year's Eve", "day": 31, "month": 12, "lead": 14}
+]

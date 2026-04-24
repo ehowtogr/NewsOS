@@ -1,0 +1,11 @@
+[
+    {"title": "Πρωτοχρονιά", "day": 1, "month": 1, "lead": 10},
+    {"title": "Θεοφάνεια", "day": 6, "month": 1, "lead": 7},
+    {"title": "25η Μαρτίου", "day": 25, "month": 3, "lead": 15},
+    {"title": "Πρωτομαγιά", "day": 1, "month": 5, "lead": 10},
+    {"title": "15αύγουστος", "day": 15, "month": 8, "lead": 20},
+    {"title": "28η Οκτωβρίου", "day": 28, "month": 10, "lead": 15},
+    {"title": "Black Friday", "day": 25, "month": 11, "lead": 25},
+    {"title": "Άγιος Ανδρέας (Πάτρα)", "day": 30, "month": 11, "lead": 15},
+    {"title": "Χριστούγεννα", "day": 25, "month": 12, "lead": 30}
+]

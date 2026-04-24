@@ -1,0 +1,11 @@
+[
+    {"title": "Nyårsdagen (New Year's Day)", "day": 1, "month": 1, "lead": 14},
+    {"title": "Alla hjärtans dag (Valentine's)", "day": 14, "month": 2, "lead": 14},
+    {"title": "Valborgsmässoafton (Walpurgis)", "day": 30, "month": 4, "lead": 14},
+    {"title": "Första maj (May Day)", "day": 1, "month": 5, "lead": 7},
+    {"title": "Sveriges nationaldag", "day": 6, "month": 6, "lead": 14},
+    {"title": "Halloween", "day": 31, "month": 10, "lead": 14},
+    {"title": "Julafton (Christmas Eve)", "day": 24, "month": 12, "lead": 30},
+    {"title": "Juldagen (Christmas Day)", "day": 25, "month": 12, "lead": 14},
+    {"title": "Nyårsafton (New Year's Eve)", "day": 31, "month": 12, "lead": 14}
+]

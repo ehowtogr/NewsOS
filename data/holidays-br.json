@@ -1,0 +1,11 @@
+[
+    {"title": "Confraternização Universal (New Year)", "day": 1, "month": 1, "lead": 14},
+    {"title": "Tiradentes Day", "day": 21, "month": 4, "lead": 7},
+    {"title": "Dia do Trabalhador (Labor Day)", "day": 1, "month": 5, "lead": 7},
+    {"title": "Dia dos Namorados (Valentine's)", "day": 12, "month": 6, "lead": 14},
+    {"title": "Independência do Brasil", "day": 7, "month": 9, "lead": 14},
+    {"title": "Nossa Senhora Aparecida", "day": 12, "month": 10, "lead": 14},
+    {"title": "Dia de Finados (All Souls' Day)", "day": 2, "month": 11, "lead": 7},
+    {"title": "Proclamação da República", "day": 15, "month": 11, "lead": 7},
+    {"title": "Natal (Christmas)", "day": 25, "month": 12, "lead": 30}
+]

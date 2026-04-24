@@ -1,0 +1,9 @@
+[
+  {"title": "New Year's Day (Nieuwjaar / Nouvel An)", "day": 1, "month": 1, "lead_days": 7, "notes": "New year coverage"},
+  {"title": "Labour Day (Dag van de Arbeid / Fête du Travail)", "day": 1, "month": 5, "lead_days": 5, "notes": "Union marches and labor rights focus"},
+  {"title": "Belgian National Day (Nationale Feestdag / Fête Nationale)", "day": 21, "month": 7, "lead_days": 10, "notes": "Military parade, royal family appearances"},
+  {"title": "Assumption of Mary (O.L.V. Hemelvaart / Assomption)", "day": 15, "month": 8, "lead_days": 4, "notes": "Religious holiday, summer travel"},
+  {"title": "All Saints' Day (Allerheiligen / Toussaint)", "day": 1, "month": 11, "lead_days": 4, "notes": "Cemetery visits, religious observance"},
+  {"title": "Armistice Day (Wapenstilstand / Armistice)", "day": 11, "month": 11, "lead_days": 7, "notes": "WWI commemoration, ceremonies at Ypres"},
+  {"title": "Christmas Day (Kerstmis / Noël)", "day": 25, "month": 12, "lead_days": 14, "notes": "Main holiday coverage"}
+]

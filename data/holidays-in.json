@@ -1,0 +1,8 @@
+[
+    {"title": "Republic Day", "day": 26, "month": 1, "lead": 10},
+    {"title": "Holi (Festival of Colours)", "day": 14, "month": 3, "lead": 15},
+    {"title": "Independence Day", "day": 15, "month": 8, "lead": 15},
+    {"title": "Gandhi Jayanti", "day": 2, "month": 10, "lead": 7},
+    {"title": "Diwali", "day": 20, "month": 10, "lead": 30},
+    {"title": "Christmas", "day": 25, "month": 12, "lead": 20}
+]

@@ -1,0 +1,13 @@
+[
+    {"title": "New Year's Day", "day": 1, "month": 1, "lead": 14},
+    {"title": "Human Rights Day", "day": 21, "month": 3, "lead": 7},
+    {"title": "Freedom Day", "day": 27, "month": 4, "lead": 14},
+    {"title": "Workers' Day", "day": 1, "month": 5, "lead": 7},
+    {"title": "Youth Day", "day": 16, "month": 6, "lead": 14},
+    {"title": "Nelson Mandela Day", "day": 18, "month": 7, "lead": 14},
+    {"title": "National Women's Day", "day": 9, "month": 8, "lead": 14},
+    {"title": "Heritage Day", "day": 24, "month": 9, "lead": 14},
+    {"title": "Day of Reconciliation", "day": 16, "month": 12, "lead": 7},
+    {"title": "Christmas Day", "day": 25, "month": 12, "lead": 30},
+    {"title": "Day of Goodwill", "day": 26, "month": 12, "lead": 14}
+]

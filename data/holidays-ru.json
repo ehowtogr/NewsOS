@@ -1,0 +1,9 @@
+[
+  {"title": "New Year Holidays", "day": 1, "month": 1, "lead_days": 10, "notes": "Main festive season"},
+  {"title": "Orthodox Christmas", "day": 7, "month": 1, "lead_days": 7, "notes": "Religious celebrations"},
+  {"title": "Defender of the Fatherland Day", "day": 23, "month": 2, "lead_days": 5, "notes": "Military focus, men's day"},
+  {"title": "International Women's Day", "day": 8, "month": 3, "lead_days": 7, "notes": "Major holiday in Russia, flower markets"},
+  {"title": "Spring and Labor Day", "day": 1, "month": 5, "lead_days": 5, "notes": "May holidays begin"},
+  {"title": "Victory Day", "day": 9, "month": 5, "lead_days": 14, "notes": "Massive military parade in Red Square"},
+  {"title": "Russia Day", "day": 12, "month": 6, "lead_days": 7, "notes": "National holiday"}
+]

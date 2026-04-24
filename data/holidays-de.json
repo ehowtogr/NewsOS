@@ -1,0 +1,7 @@
+[
+  {"title": "New Year's Day (Neujahr)", "day": 1, "month": 1, "lead_days": 7, "notes": "New year coverage"},
+  {"title": "Labour Day (Tag der Arbeit)", "day": 1, "month": 5, "lead_days": 5, "notes": "Labor union marches"},
+  {"title": "Day of German Unity (Tag der Deutschen Einheit)", "day": 3, "month": 10, "lead_days": 10, "notes": "Major national holiday, historical retrospectives"},
+  {"title": "Christmas Eve (Heiligabend)", "day": 24, "month": 12, "lead_days": 10, "notes": "Holiday coverage"},
+  {"title": "Christmas Day (Weihnachten)", "day": 25, "month": 12, "lead_days": 14, "notes": "Main holiday coverage"}
+]

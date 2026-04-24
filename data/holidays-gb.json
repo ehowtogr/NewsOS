@@ -1,0 +1,9 @@
+[
+    {"title": "New Year's Day", "day": 1, "month": 1, "lead": 10},
+    {"title": "Valentine's Day", "day": 14, "month": 2, "lead": 14},
+    {"title": "St Patrick's Day", "day": 17, "month": 3, "lead": 10},
+    {"title": "Guy Fawkes Night", "day": 5, "month": 11, "lead": 10},
+    {"title": "Remembrance Day", "day": 11, "month": 11, "lead": 7},
+    {"title": "Christmas Eve", "day": 24, "month": 12, "lead": 25},
+    {"title": "Boxing Day Sales", "day": 26, "month": 12, "lead": 20}
+]

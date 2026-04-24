@@ -1,0 +1,9 @@
+[
+    {"title": "Super Bowl", "day": 9, "month": 2, "lead": 20},
+    {"title": "Valentine's Day", "day": 14, "month": 2, "lead": 14},
+    {"title": "Independence Day (4th of July)", "day": 4, "month": 7, "lead": 15},
+    {"title": "Halloween", "day": 31, "month": 10, "lead": 30},
+    {"title": "Veterans Day", "day": 11, "month": 11, "lead": 7},
+    {"title": "Thanksgiving", "day": 27, "month": 11, "lead": 20},
+    {"title": "Black Friday", "day": 28, "month": 11, "lead": 30}
+]
