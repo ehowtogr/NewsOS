@@ -679,7 +679,11 @@ function newsos_license_render_settings() {
 
 	if ( isset( $_POST['newsos_license_save'] ) && isset( $_POST['newsos_license_nonce'] ) && wp_verify_nonce( sanitize_text_field( wp_unslash( $_POST['newsos_license_nonce'] ) ), 'newsos_license_save' ) ) {
 		$raw = isset( $_POST['newsos_license_keys_raw'] ) ? wp_unslash( $_POST['newsos_license_keys_raw'] ) : '';
-		newsos_license_update_storage_option( 'newsos_license_keys_raw', sanitize_textarea_field( $raw ), false );
+		$clean = sanitize_textarea_field( $raw );
+		if ( $clean !== '' && substr( $clean, -1 ) !== "\n" ) {
+			$clean .= "\n";
+		}
+		newsos_license_update_storage_option( 'newsos_license_keys_raw', $clean, false );
 		echo '<div class="updated"><p>Saved inventory.</p></div>';
 	}
 
@@ -695,6 +699,9 @@ function newsos_license_render_settings() {
 		$end_ts    = strtotime( '+' . $months . ' months', strtotime( gmdate( 'Y-m-d' ) . ' 12:00:00 UTC' ) );
 		$expires   = gmdate( 'Y-m-d', $end_ts );
 		$raw       = (string) newsos_license_get_storage_option( 'newsos_license_keys_raw', '' );
+		if ( $raw !== '' && substr( $raw, -1 ) !== "\n" ) {
+			$raw .= "\n";
+		}
 		$line      = $new_key . "\t" . $expires . "\n";
 		newsos_license_update_storage_option( 'newsos_license_keys_raw', $raw . $line, false );
 		echo '<div class="updated"><p>Generated: <code>' . esc_html( $new_key ) . '</code> — paid through <strong>' . esc_html( $expires ) . '</strong> (UTC). Copy into your customer email.</p></div>';
